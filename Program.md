@@ -8,7 +8,7 @@ University of Melbourne, 26/July - 27/July
 
 | Start | End     | Activity    |
 | :---- | :------ | :------------------------------------------------------- |
-| 10:00 | 10:30 | Staff tea romm (Peter Hall Building) # Coffee and Welcome |
+| 10:00 | 10:30 | Staff tea romm (Peter Hall Building) <br> Coffee and Welcome |
 | 10:30 | 11:00 | Facilitated Discussion of Project Ideas | 
 | 11:00 | 12:00 | Work on Collaborative Projects |
 | 12:00 | 13:00 | Lunch* |

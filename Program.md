@@ -22,15 +22,11 @@ University of Melbourne, 26/July - 27/July
 
 | Start | End     | Activity    |
 | :---- | :------ | :------------------------------------------------------- |
-| 9:00 | 9:45 | Welcome + Identifying Research Projects|
-| 9:45 | 10:00 | Work on Collaborative Projects |
-| 10:00 | 10:30 | Morning Tea |
-| 10:30 | 12:00 | Work on Collaborative Projects |
-| 12:00 | 13:00 | Lunch* |
-| 13:00 | 14:00 | Introduction to Julia* |
-| 14:00 | 15:30 | Workshop Session: GitHub & R packages (Run by Nicholas Tierney) |
-| 15:30 | 16:00 | Afternoon Tea |
-| 16:00 | 18:00 | Career Trajectories: Invited Speaker Presentations<br>[Prof. Aurore Delaigle (Uni Melb/ACEMS)](https://acems.org.au/our-people/aurore-delaigle)<br>[Dr. John Vial (SOUNDelve)](https://au.linkedin.com/in/johnvial)<br>[Dr. Mark Lawrence (AMSI/ACEMS)](https://acems.org.au/our-people/mark-lawrence) |
-| 18:00 | Late | Social evening with Invited Speakers (The Island, Cnr. Surfer Paradise Blvd & Beach Rd - self catered)|
-
-\* Cross over with student retreat
+|  | 9:15 | Coffee at ??|
+| 9:30 | 10:00 | Room 2015-2016 (Business & Economics Building) Accessing ACEMS funding schemes|
+| 10:00 | 11:00 | Peter Taylor "Taking advantage of remaining ACEMS time" |
+| 11:00 | 12:00 | Collaborative Session |
+| 12:00 | 13:00 | Lunch (provided) |
+| 13:00 | 15:00 | Collaborative Sessions |
+| 15:00 | 16:30 | Presentation back to group & Planning Main Retreat |
+| 16:30 |  | Close |

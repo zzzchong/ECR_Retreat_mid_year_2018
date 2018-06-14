@@ -23,8 +23,8 @@ University of Melbourne, 26/July - 27/July
 | Start | End     | Activity    |
 | :---- | :------ | :------------------------------------------------------- |
 |  | 9:15 | Coffee at ??|
-| 9:30 | 10:00 | Room 2015-2016 (Business & Economics Building) Accessing ACEMS funding schemes|
-| 10:00 | 11:00 | Peter Taylor "Taking advantage of remaining ACEMS time" |
+| 9:30 | 10:00 | Room 2015-2016 (Business & Economics Building) <br> Jessie Roberts "Accessing ACEMS funding schemes"|
+| 10:00 | 11:00 | Peter Taylor <br> "Taking advantage of remaining ACEMS time" |
 | 11:00 | 12:00 | Collaborative Session |
 | 12:00 | 13:00 | Lunch (provided) |
 | 13:00 | 15:00 | Collaborative Sessions |

@@ -1,10 +1,12 @@
 # ECR Retreat mid year 2018
 
-# Introduction
+## Introduction
 
 
 This document lists the program of the ACEMS 2018 ECR Mid-Year Retreat. The retreat will be held at the University of Melbourne on Thursday 26th of July to Friday 27th of July 2018. 
  
+## ECR Organising Committee
+
 The 2018 ECR Organising Committee is: 
 
 * [Jarod Lee (UTS)](https://acems.org.au/our-people/jarod-lee) 
@@ -17,3 +19,11 @@ The 2018 ECR Organising Committee is:
 * [Xuhui Fan (UNSW)](https://acems.org.au/our-people/xuhui-fan) 
 
 with generous support from [Jessie Roberts](https://acems.org.au/our-people/jessie-roberts) (ACEMS Stakeholder Engagement Officer).
+
+
+## Program
+
+
+
+
+## Contact

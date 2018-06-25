@@ -7,7 +7,7 @@ This document lists the program of the ACEMS 2018 ECR Mid-Year Retreat. The retr
  
 The 2018 ECR Organising Committee is: 
 
-* Jarod Lee (UTS) 
+* [Jarod Lee (UTS)](https://acems.org.au/our-people/jarod-lee) 
 * Eric Zhou (Monash) 
 * Jesper Ipsen (University of Melbourne) 
 * Laleh Tafakori (University of Melbourne) 

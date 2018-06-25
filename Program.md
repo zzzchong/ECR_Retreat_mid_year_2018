@@ -6,9 +6,9 @@ University of Melbourne, 26/July - 27/July
 ## Thursday 26 July 2018 
 
 
-| Start | End     | Activity    |
-| :---- | :------ | :------------------------------------------------------------------------------------------------------- |
-| 10:00 | 10:30 | Staff tea room (Peter Hall Building) Coffee and Welcome Morning tea provided|
+| Start | End     | Activity    | Location|
+| :---- | :------ | :------------------------------------------------------------------------- |:-------------|
+| 10:00 | 10:30 |  Coffee and Welcome Morning tea provided| Staff tea room (Peter Hall Building)|
 | 10:30 | 11:30 | Staff tea room <br> **Kate Smith-Miles** <br> "Staying at the frontier of research"| 
 | 11:30 | 12:00 | Research interests/Finding collaborators |
 | 12:00 | 13:00 | Lunch (provided) |

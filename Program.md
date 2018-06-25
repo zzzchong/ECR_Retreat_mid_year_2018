@@ -9,11 +9,11 @@ University of Melbourne, 26/July - 27/July
 | Start | End     | Activity    | Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
 | 10:00 | 10:30 |  Coffee and Welcome Morning tea provided| Staff tea room (Peter Hall Building)|
-| 10:30 | 11:30 |  **Kate Smith-Miles** <br> "Staying at the frontier of research"| Staff tea room |
+| 10:30 | 11:30 |  **Kate Smith-Miles** <br> "Staying at the frontier of research"| Staff tea room (Peter Hall Building) |
 | 11:30 | 12:00 | Research interests/Finding collaborators |
 | 12:00 | 13:00 | Lunch (provided) |
-| 13:00 | 14:30 | Short Course Session 1 <br> **Rob Hyndman** "Forecasting" <br> Thomas Cherry room <br> Short Course Session 2 <br> **Tim Garoni** "Markov chains and mixing times" <br> Maurice Belz room| 
-| 14:30 | 15:00 | Staff tea romm Afternoon tea  | 
+| 13:00 | 14:30 | Short Course Session 1 <br> **Rob Hyndman** "Forecasting" <br> Short Course Session 2 <br> **Tim Garoni** "Markov chains and mixing times" | Thomas Cherry room <br> Maurice Belz room |
+| 14:30 | 15:00 |  Afternoon tea  | Staff tea room |
 | 15:00 | 17:00 | Short Course Session II |
 |  |  | Dinner + Beer |
 
@@ -28,5 +28,5 @@ University of Melbourne, 26/July - 27/July
 | 11:00 | 12:00 | Collaborative Session |
 | 12:00 | 13:00 | Lunch (provided) |
 | 13:00 | 15:00 | Collaborative Sessions |
-| 15:00 | 16:30 | Presentation back to group & Planning Main Retreat |
+| 15:00 | 16:30 | Presentation back to group & planning main retreat |
 | 16:30 |  | Close |

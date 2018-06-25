@@ -22,8 +22,15 @@ with generous support from [Jessie Roberts](https://acems.org.au/our-people/jess
 
 
 ## Program
-
+The retreat program can be seen here - [Program](https://github.com/ACEMS/ECR_Retreat_mid_year_2018/blob/master/Program.md)
 
 
 
 ## Contact
+
+
+
+## Travel logistics
+* For ACEMS ECRs, ACEMS will cover your travel, accomodation and workshop costs. Please speak with your node administrator or ECR representative if you have any questions.    
+
+* For Industry Affililate Members - ACEMS will cover the workhsop and catering costs. Please make your own arrangements for accomodation and travel is required.    

@@ -9,7 +9,7 @@ University of Melbourne, 26/July - 27/July
 | Start | End     | Activity    | Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
 | 10:00 | 10:30 |  Coffee and Welcome Morning tea provided| Staff tea room (Peter Hall Building)|
-| 10:30 | 11:30 | Staff tea room <br> **Kate Smith-Miles** <br> "Staying at the frontier of research"| 
+| 10:30 | 11:30 |  **Kate Smith-Miles** <br> "Staying at the frontier of research"| Staff tea room |
 | 11:30 | 12:00 | Research interests/Finding collaborators |
 | 12:00 | 13:00 | Lunch (provided) |
 | 13:00 | 14:30 | Short Course Session 1 <br> **Rob Hyndman** "Forecasting" <br> Thomas Cherry room <br> Short Course Session 2 <br> **Tim Garoni** "Markov chains and mixing times" <br> Maurice Belz room| 
@@ -20,10 +20,10 @@ University of Melbourne, 26/July - 27/July
    
 ## Friday 27 July 2018
 
-| Start | End     | Activity    |
-| :---- | :------ | :---------------------------------------------------------------------------------------------------- |
+| Start | End     | Activity    |Location|
+| :---- | :------ | :------------------------------------------------------------------------- |:------------|
 |  | 9:15 | Coffee at ??|
-| 9:30 | 10:00 | Room 2015-2016 (Business & Economics Building) <br> **Jessie Roberts** "Accessing ACEMS funding schemes"|
+| 9:30 | 10:00 |  <br> **Jessie Roberts** "Accessing ACEMS funding schemes"|Room 2015-2016 (Business & Economics Building)|
 | 10:00 | 11:00 | **Peter Taylor** <br> "Taking advantage of remaining ACEMS time" |
 | 11:00 | 12:00 | Collaborative Session |
 | 12:00 | 13:00 | Lunch (provided) |

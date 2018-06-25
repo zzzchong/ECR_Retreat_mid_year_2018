@@ -30,9 +30,12 @@ The retreat program can be seen here - [Program](https://github.com/ACEMS/ECR_Re
 If you have any questions please contact [Jesper Ipsen](https://acems.org.au/our-people/jesper-ipsen).    
 Alternatively you can raise any question on the ACEMS slack team under the #postdoc channel. 
 
-## Travel logistics
+## Travel Funding
 1. **For ACEMS ECRs** - ACEMS will cover your travel, accomodation and workshop costs. Please speak with your node administrator or ECR representative if you have any questions.    
 
 2. **For Industry Affililate Members** - ACEMS will cover the workhsop and catering costs. Please make your own arrangements for accomodation and travel is required. 
+
+## Location
+The Retreat will be held at the University of Melbourne Parkville campus and will kick-off in the Staff tea room of the Peter Hall building within the School of Mathematical Sciences. A map to the Peter Hall building can be found [here](https://maps.unimelb.edu.au/parkville/building/160). 
 
 

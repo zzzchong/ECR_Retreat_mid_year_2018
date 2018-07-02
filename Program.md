@@ -25,7 +25,7 @@ University of Melbourne, 26/July - 27/July
 |  | 9:15 | Morning coffee | TBC cafe on campus at Uni Melb.|
 | 9:30 | 10:00 |"Accessing ACEMS funding schemes" <br> **Jessie Roberts**|Room 2015-2016 (Business & Economics Building)|
 | 10:00 | 11:00 |"Taking advantage of remaining ACEMS time"  <br> **Peter Taylor**|Room 2015-2016 <br> (Business & Economics Building)|
-| 11:00 | 12:00 | Collaborative Session |Room 2015-2016 <br> (Business & Economics Building)|
+| 11:00 | 12:00 | Talk from <br> **Tomasz Bednarz** |Room 2015-2016 <br> (Business & Economics Building)|
 | 12:00 | 13:00 | Lunch (provided) |Room 2015-2016 <br> (Business & Economics Building)|
 | 13:00 | 15:00 | Collaborative Sessions |Room 2015-2016 <br>  (Business & Economics Building)|
 | 15:00 | 16:30 | Presentations on collaborative session discussions <br> Planning main retreat | Room 2015-2016 <br> (Business & Economics Building)|

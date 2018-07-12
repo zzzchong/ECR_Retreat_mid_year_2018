@@ -25,7 +25,7 @@ University of Melbourne, 26/July - 27/July
 | 9:30 | 10:00 |"Accessing ACEMS funding schemes" <br> **Jessie Roberts**|Room 2015-2016 198 Berkeley St (The Spot)|
 | 10:00 | 11:00 |"Taking advantage of remaining ACEMS time"  <br> **Peter Taylor**|Room 2015-2016 <br> 198 Berkeley St (The Spot)|
 | 11:00 | 12:00 | A Talk from <br> **Tomasz Bednarz** |Room 2015-2016 <br> 198 Berkeley St (The Spot)|
-| 12:00 | 13:00 | Lunch (provided) |Room 2015-2016 <br> 198 Berkeley St (The Spot)|
+| 12:00 | 13:00 | Lunch (provided) |Maurice Belz room (Peter Hall Building)"|
 | 13:00 | 15:00 | Collaborative Sessions |Room 2015-2016 <br>  198 Berkeley St (The Spot)|
 | 15:00 | 16:30 | Presentations on collaborative session discussions <br> Planning main retreat | Room 2015-2016 <br> 198 Berkeley St (The Spot)|
 | 16:30 |  | Close |

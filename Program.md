@@ -15,7 +15,7 @@ University of Melbourne, 26/July - 27/July
 | 13:00 | 14:30 | Short Course Session 1: "Forecasting" <br> **Rob Hyndman**  <br> Short Course Session 2: "Markov chains and mixing times" <br> **Tim Garoni**  | Workshop 1: Thomas Cherry room <br> Workshop 2: Maurice Belz room |
 | 14:30 | 15:00 |  Afternoon tea | Staff tea room (Peter Hall Building) |
 | 15:00 | 17:00 | Short Course Session II |Workshop 1: Thomas Cherry room <br> Workshop 2: Maurice Belz room|
-|  |  | Dinner + Beer |TBC|
+| 18:00 |  | Dinner |The Clyde Hotel <br> 385 Cardigan St, Carlton|
 
    
 ## Friday 27 July 2018

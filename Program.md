@@ -9,21 +9,30 @@ Torquay, 29/Oct - 31/Oc
 | Start | End     | Activity    | Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
 | 12:00 | 13:00 |  Arrival \& Lunch| |
-| 13:00 | 13:15 pm | Introduction \& Icebreaker |  |
+| 13:00 | 13:15 | Introduction \& Icebreaker |  |
 | 13:15 | 14:00 | ACEMS Communications (**by Tim Macuga** ) |
 | 14:00 | 16:00 |  |
 | 17:00 | 19:00 | Welcome BBQ and Recreational activities with students ||
 
    
-## Friday 27 July 2018
+## Tuesday 30 Oct 2018
 
 | Start | End     | Activity    |Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
-| 9:30 | 10:00 |"Accessing ACEMS funding schemes" <br> **Jessie Roberts**|Room 2015-2016 <br> 198 Berkeley St (The Spot)|
-| 10:00 | 11:00 |"Taking advantage of remaining ACEMS time"  <br> **Peter Taylor**|Room 2015-2016 <br> 198 Berkeley St (The Spot)|
-| 11:00 | 12:00 | Collaborative Sessions |Room 2015-2016 <br> 198 Berkeley St (The Spot)|
-| 12:00 | 13:00 | Lunch (provided) |Maurice Belz room (Peter Hall Building)|
-| 13:00 | 14:30 | Collaborative Sessions |Room 2015-2016 <br>  198 Berkeley St (The Spot)|
-| 14:30 | 15:00 | Afternoon tea |Maurice Belz room (Peter Hall Building)|
-| 15:00 | 16:30 | Presentations on collaborative session discussions <br> Planning main retreat | Room 2015-2016 <br> 198 Berkeley St (The Spot)|
-| 16:30 |  | Close |
+| 9.00 | 12.00 | Tutorial ||
+| 12:00 | 13:00 |Lunch ||
+| 13:00 | 15:00 | Indusrial speakers|
+| 15:00 | 15:30 | Afternoon tea ||
+| 15:30 | 17:30 | Industrial speakers ||
+| 18:00 |  | Supper ||
+
+## Wednesday 31 Oct 2018
+
+| Start | End     | Activity    |Location|
+| :---- | :------ | :------------------------------------------------------------------------- |:-------------|
+| 9.00 | 12.00 | Tutorial ||
+| 12:00 | 13:00 |Lunch ||
+| 13:00 | 15:00 | Indusrial speakers|
+| 15:00 | 15:30 | Afternoon tea ||
+| 15:30 | 17:30 | Industrial speakers ||
+| 18:00 |  | Supper ||

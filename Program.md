@@ -19,7 +19,7 @@ Torquay, 29/Oct - 31/Oc
 
 | Start | End     | Activity    |Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
-| 9.00 | 12.00 | Tutorial ||
+| 9.00 | 12.00 | Tutorial by **Aurore Delaigle** ||
 | 12:00 | 13:00 |Lunch ||
 | 13:00 | 15:00 | Indusrial speakers|
 | 15:00 | 15:30 | Afternoon tea ||

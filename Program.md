@@ -8,14 +8,11 @@ Torquay, 29/Oct - 31/Oc
 
 | Start | End     | Activity    | Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
-| 12:00 | 1:00 |  Arrival \& Lunch| |
-| 10:30 | 11:30 | "Staying at the frontier of research" <br> **Kate Smith-Miles** | Staff tea room (Peter Hall Building) |
-| 11:30 | 12:00 | Research interests/Finding collaborators |
-| 12:00 | 13:00 | Lunch (provided) |
-| 13:00 | 14:30 | Short Course Session 1: "Forecasting" <br> **Rob Hyndman**  <br> Short Course Session 2: "Markov chains and mixing times" <br> **Tim Garoni**  | Workshop 1: Thomas Cherry room <br> Workshop 2: Maurice Belz room |
-| 14:30 | 15:00 |  Afternoon tea | Staff tea room (Peter Hall Building) |
-| 15:00 | 17:00 | Short Course Session II |Workshop 1: Thomas Cherry room <br> Workshop 2: Maurice Belz room|
-| 18:00 |  | Dinner |The Clyde Hotel <br> 385 Cardigan St, Carlton|
+| 12:00 | 13:00 |  Arrival \& Lunch| |
+| 1.00 | 1.15 pm | Introduction \& Icebreaker |  |
+| 1.15 | 2.00 pm | ACEMS Communications (**by Tim Macuga** ) |
+| 2.00 | 4.00 pm |  |
+| 17:00 | 19:00 | Welcome BBQ and Recreational activities with ECRs ||
 
    
 ## Friday 27 July 2018

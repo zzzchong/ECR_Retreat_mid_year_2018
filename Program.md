@@ -1,14 +1,14 @@
-# Program for ECR Retreat Mid Year 2018
-University of Melbourne, 26/July - 27/July
+# Program for ACEMS ECR Main Retreat 2018
+Torquay, 29/Oct - 31/Oc
 
 # Program
 
-## Thursday 26 July 2018 
+## Monday 29 Oct 2018 
 
 
 | Start | End     | Activity    | Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
-| 10:00 | 10:30 |  Coffee and Welcome <br> (morning tea provided)| Staff tea room (Peter Hall Building)|
+| 12:00 | 1:00 |  Arrival \& Lunch| |
 | 10:30 | 11:30 | "Staying at the frontier of research" <br> **Kate Smith-Miles** | Staff tea room (Peter Hall Building) |
 | 11:30 | 12:00 | Research interests/Finding collaborators |
 | 12:00 | 13:00 | Lunch (provided) |

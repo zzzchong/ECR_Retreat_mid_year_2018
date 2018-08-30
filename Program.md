@@ -9,10 +9,10 @@ Torquay, 29/Oct - 31/Oc
 | Start | End     | Activity    | Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
 | 12:00 | 13:00 |  Arrival \& Lunch| |
-| 1.00 | 1.15 pm | Introduction \& Icebreaker |  |
-| 1.15 | 2.00 pm | ACEMS Communications (**by Tim Macuga** ) |
-| 2.00 | 4.00 pm |  |
-| 17:00 | 19:00 | Welcome BBQ and Recreational activities with ECRs ||
+| 13:00 | 13:15 pm | Introduction \& Icebreaker |  |
+| 13:15 | 14:00 | ACEMS Communications (**by Tim Macuga** ) |
+| 14:00 | 16:00 |  |
+| 17:00 | 19:00 | Welcome BBQ and Recreational activities with students ||
 
    
 ## Friday 27 July 2018

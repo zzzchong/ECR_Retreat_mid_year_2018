@@ -3,7 +3,7 @@
 ## Introduction
 
 
-This document lists the program of the ACEMS 2018 ECR Main Retreat. The retreat will be held at Thorquay, Victoria from 29 Oct 2018 to 31 Oct 2018. 
+This document lists the program of the ACEMS 2018 ECR Main Retreat. The retreat will be held at Torquay, Victoria from 29 Oct 2018 to 31 Oct 2018. 
  
 ## ECR Organising Committee
 
@@ -34,6 +34,6 @@ Alternatively you can raise any question on the ACEMS slack team under the #post
 2. **For Industry Affililate Members** - ACEMS will cover the workhsop and catering costs. Please make your own arrangements for accomodation and travel is required. 
 
 ## Location
-The Retreat will be held at Thorquay. 
+The Retreat will be held at Torquay. 
 
 

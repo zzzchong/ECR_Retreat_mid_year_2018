@@ -34,6 +34,6 @@ Alternatively you can raise any question on the ACEMS slack team under the #post
 2. **For Industry Affililate Members** - ACEMS will cover the workhsop and catering costs. Please make your own arrangements for accomodation and travel is required. 
 
 ## Location
-The Retreat will be held at the University of Melbourne Parkville campus and will kick-off in the Staff tea room of the Peter Hall building within the School of Mathematical Sciences. A map to the Peter Hall building can be found [here](https://maps.unimelb.edu.au/parkville/building/160). 
+The Retreat will be held at Thorquay. 
 
 

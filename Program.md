@@ -30,9 +30,5 @@ Torquay, 29/Oct - 31/Oc
 
 | Start | End     | Activity    |Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
-| 9.00 | 12.00 | Tutorial ||
-| 12:00 | 13:00 |Lunch ||
-| 13:00 | 15:00 | Indusrial speakers|
-| 15:00 | 15:30 | Afternoon tea ||
-| 15:30 | 17:30 | Industrial speakers ||
-| 18:00 |  | Supper ||
+| 10:00 | 10:30 | Morning Tea ||
+| 10:30 | 12:00 | Pannel discussion ||

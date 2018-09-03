@@ -31,5 +31,5 @@ Torquay, 29/Oct - 31/Oc
 | Start | End     | Activity    |Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
 | 10:00 | 10:30 | Morning Tea ||
-| 10:30 | 12:00 | Pannel discussion <>Grant application, Academic Job ||
+| 10:30 | 12:00 | Pannel discussion <br>Grant application, Academic Job ||
 | 12:00 | 13:00 |Lunch ||

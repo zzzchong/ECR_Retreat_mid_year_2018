@@ -19,9 +19,9 @@ Torquay, 29/Oct - 31/Oc
 
 | Start | End     | Activity    |Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
-| 9.00 | 10.30 | Tutorial (Topic ?)<br>by **Aurore Delaigle** ||
-| 10:30 | 11:00 | Morning tea ||
-| 11:00 | 12.00 | Tutorial (continue) by **Aurore Delaigle** ||
+| 9:00 | 10:00 | Tutorial (Topic ?)<br>by **Aurore Delaigle** ||
+| 10:00 | 10:30 | Morning tea ||
+| 10:30 | 12.00 | Tutorial (continue) by **Aurore Delaigle** ||
 | 12:00 | 13:00 |Lunch ||
 | 13:00 | 15:00 | Indusrial speakers|
 | 15:00 | 15:30 | Afternoon tea ||
@@ -33,5 +33,5 @@ Torquay, 29/Oct - 31/Oc
 | Start | End     | Activity    |Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
 | 10:00 | 10:30 | Morning Tea ||
-| 10:30 | 12:00 | Pannel discussion <br>Grant application, Academic Job ||
+| 10:30 | 12:00 | Pannel discussion <br>Professors, Industrial members, "young" professors <br>Grant application, Academic Job ||
 | 12:00 | 13:00 |Lunch ||

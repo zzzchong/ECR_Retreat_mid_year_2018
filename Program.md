@@ -19,7 +19,7 @@ Torquay, 29/Oct - 31/Oc
 
 | Start | End     | Activity    |Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
-| 9:00 | 10:00 | Tutorial (Topic ?)<br>by **Aurore Delaigle** ||
+| 9:00 | 10:00 | Tutorial (Title: **An introduction to functional data analysis**)<br>by **Aurore Delaigle** ||
 | 10:00 | 10:30 | Morning tea ||
 | 10:30 | 12.00 | Tutorial (continue) by **Aurore Delaigle** ||
 | 12:00 | 13:00 |Lunch ||

@@ -1,5 +1,5 @@
 # Program for ACEMS ECR Main Retreat 2018
-Torquay, 29/Oct - 31/Oc
+Torquay, 29/Oct - 31/Oct
 
 # Program
 

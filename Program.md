@@ -33,5 +33,5 @@ Torquay, 29/Oct - 31/Oct
 | Start | End     | Activity    |Location|
 | :---- | :------ | :------------------------------------------------------------------------- |:-------------|
 | 10:00 | 10:30 | Morning Tea ||
-| 10:30 | 12:00 | Pannel discussion <br>**Tim Garoni**,**Peter Taylor**, **Matt Roughan**, **Brodie Lawson** <br>Grant application, Academic Job ||
+| 10:30 | 12:00 | Pannel discussion <br>**Tim Garoni**, **Peter Taylor**, **Matt Roughan**, **Brodie Lawson** <br>Grant application, Academic Job ||
 | 12:00 | 13:00 |Lunch ||

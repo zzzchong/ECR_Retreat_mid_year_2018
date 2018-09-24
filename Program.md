@@ -23,9 +23,9 @@ Torquay, 29/Oct - 31/Oct
 | 10:00 | 10:30 | Morning tea ||
 | 10:30 | 12.00 | Tutorial (continue) by **Aurore Delaigle** ||
 | 12:00 | 13:00 |Lunch ||
-| 13:00 | 15:00 | Indusrial speakers|
+| 13:00 | 15:00 | Industrial speaker: **John Gaffney** from Vicroad<br>Title: |
 | 15:00 | 15:30 | Afternoon tea ||
-| 15:30 | 17:30 | Industrial speakers ||
+| 15:30 | 17:30 | Industrial speaker: **Tomasz Bednarz** from UNSW <br>Title: Seeing the new reality – using visual analytics to expand perception and interaction||
 | 18:00 |  | Supper ||
 
 ## Wednesday 31 Oct 2018
